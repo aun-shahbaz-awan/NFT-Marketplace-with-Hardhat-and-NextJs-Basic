@@ -15,4 +15,14 @@
 - Hosting Servies - **[Infura](http://infura.io/)** (use any Ropsten, Rinkeby, Goerli Testnet)
 
 ## Setup Project
+```sh git clone https://github.com/Aun-Shahbaz-Awan/NFT-Marketplace-with-Hardhat-and-NextJs.git ```
+```sh cd NFT-Marketplace-with-Hardhat-and-NextJs ```
+```sh npm install ```
+
+### Setting up Tailwind CSS
+> Next, install the Tailwind dependencies:
+```sh npm install -D tailwindcss@latest postcss@latest autoprefixer@latest ```
+> Next, we will create the configuration files needed for Tailwind to work with Next.js (tailwind.config.js and postcss.config.js) by running the following command:
+```sh npx tailwindcss init -p ```
+
 
