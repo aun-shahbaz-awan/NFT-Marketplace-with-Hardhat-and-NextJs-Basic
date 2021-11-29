@@ -21,8 +21,10 @@
 
 ### Setting up Tailwind CSS
 > Next, install the Tailwind dependencies:
+
 ```sh npm install -D tailwindcss@latest postcss@latest autoprefixer@latest ```
-> Next, we will create the configuration files needed for Tailwind to work with Next.js (tailwind.config.js and postcss.config.js) by running the following command:
+> Next, we will create the configuration files needed for Tailwind to work with Next.js (```sh tailwind.config.js``` and ```sh postcss.config.js```) by running the following command:
+
 ```sh npx tailwindcss init -p ```
 
 
