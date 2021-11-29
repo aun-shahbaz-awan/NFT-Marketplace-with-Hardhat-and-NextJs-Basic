@@ -80,11 +80,11 @@ To start the app, run the following command in your CLI:
 npm run dev
 ```
 ## Screenshots
-## My Collection
+### My Collection
 ![](screenshorts/my-collection.png)
-## Creater Dashboard
+### Creater Dashboard
 ![](screenshorts/creater-dashboard.png)
-## Craete or Mint NFT
+### Craete or Mint NFT
 ![](screenshorts/create-token.png)
 Note: This is ERC721 Token.
 
