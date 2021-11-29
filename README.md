@@ -84,7 +84,7 @@ npm run dev
 ![](screenshorts/my-collection.png)
 ### Creater Dashboard
 ![](screenshorts/creater-dashboard.png)
-### Craete or Mint NFT
+### Create or Mint NFT
 ![](screenshorts/create-token.png)
 Note: This is ERC721 Token.
 
