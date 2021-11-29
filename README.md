@@ -1,5 +1,7 @@
 # Building a NFT Marketplace with Next.js, Tailwind, Solidity, Hardhat, Ethers.js, Infura and IPFS - Moralis
 
+![](screenshorts/marketplace.png)
+
 ### Prerequisites:
 #### To be successful in this guide, you must have the following:
 
@@ -77,4 +79,8 @@ To start the app, run the following command in your CLI:
 ```sh
 npm run dev
 ```
+### Screenshots
+![](screenshorts/my-collection.png)
+![](screenshorts/creater-dashboard.png)
+![](screenshorts/create-token.png)
 
