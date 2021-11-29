@@ -13,3 +13,6 @@
 - IPFS File Storage - **[Moralis](https://moralis.io/)**
 - Ethereum Web Client Library - **[Ethers.js](https://docs.ethers.io/v5/)**
 - Hosting Servies - **[Infura](http://infura.io/)** (use any Ropsten, Rinkeby, Goerli Testnet)
+
+## Setup Project
+
