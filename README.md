@@ -80,7 +80,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
 ```
 
-__OR
+___OR
 
 ### 2. Deploy on Infura - Rinkeby
 Deploy smart contract on Infura using testnet
