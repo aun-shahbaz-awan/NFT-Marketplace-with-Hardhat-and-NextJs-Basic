@@ -67,14 +67,29 @@ To run the test, run ```npx hardhat test``` from your command line:
 ```sh
 npx hardhat test
 ```
-### Delpoy on Infura - Rinkeby
-If test Pass Successfully, Deploy smart contract on Infura using testnet
+
+## Deployment (Local or Testnet)
+
+### 1. Local Setup
+1. Start the local Hardhat node
+```sh
+npx hardhat node
+```
+2. With the network running, deploy the contracts to the local network in a separate terminal window
+```sh
+npx hardhat run scripts/deploy.js --network localhost
+```
+
+__OR
+
+### 2. Deploy on Infura - Rinkeby
+Deploy smart contract on Infura using testnet
 ```sh
 npx hardhat run scripts/deploy.js --network rinkeby
 ```
-I used rinkeby, you can use any testnet i.e. ```Ropsten```, ```Rinkeby```, ```Goerli```, ```Kovan``` Testnet
+I used rinkeby, you can use any testnet i.e. ```Ropsten```, ```Rinkeby```, ```Goerli```, ```Kovan```
 
-### Running the app
+## Run the app
 To start the app, run the following command in your CLI:
 ```sh
 npm run dev
